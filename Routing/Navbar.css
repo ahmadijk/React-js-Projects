@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.Navbar{
+    background-color: crimson;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 10px 100px;
+}
+.Navbar ul  {
+    display: flex;
+    text-align: left;
+    list-style: none;
+    gap: 30px;
+    font-size: 28px;
+    
+}
+
+.Navbar a{
+    text-decoration: none;
+    color: wheat;
+    
+}
+.Navbar li {
+    display: flex;
+    float: left;
+}
+h3{
+    font-size: 34px;
+    color: bisque;
+}
+
+    
